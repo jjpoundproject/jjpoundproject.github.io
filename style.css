@@ -1,6 +1,6 @@
 body {
-    background-color: #43586d;
-    color: #feebb2;
+    background-color: #dadada;
+    color: #09003d;
 }
 
 h1, h2, h4 {
@@ -21,7 +21,7 @@ section {
     width: 100%;
     height: 80vh;
     background-image:
-        linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)),
+        linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)),
         url("img/heroImage.jpg");
     background-size: cover;
     background-position: center;
