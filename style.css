@@ -74,3 +74,27 @@ section {
     background-repeat: no-repeat;
     height: 300px;
   }
+
+  #trans-image {
+    background-image: url("img/transflag.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+  }
+
+  #tucson-image {
+    background-image: url("img/tucsonpride.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+  }
+
+  #glf-image {
+    background-image: url("img/glf.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+  }
